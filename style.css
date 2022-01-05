@@ -1,0 +1,29 @@
+.header-image{
+    background-image: url('img/bg.jpeg');
+    background-size:cover;
+    background-position-y:70%;
+}
+
+.hero h1{
+    font-family:'CohenHandwritten-Regular';
+    color:black !important;
+    letter-spacing: -2px;
+}
+
+.hero p{
+    font-family:'CohenHandwritten-Regular';
+    color:rgb(62, 62, 62) !important;
+    letter-spacing: -2px;
+    font-size: 30px;
+
+}
+
+.carousel{
+    max-width:95%;
+    margin: 0 auto;
+}
+
+.codepen{
+    max-width:50%;
+    margin: 0 auto;
+}
